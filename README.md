@@ -1,24 +1,21 @@
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Welcome to your Rails project on Cloud9 IDE!
+Welcome to Photo Share 
 
 To get started, just do the following:
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://workplace-sourav-bhadani.c9.io/).
+1. In this website I am using rails 4.1.6 .
+2. Using Bootstarp for front-end Design .
+3. Using Devise for auth.
+4. Omniauth ,facebook auth , twitter auth ,google auth, linkedin auth for registration.
+5. PaperClip for Image Upload.
+6. will_paginate for pagination.
+7. Postgress for database.
+8. dropbox for image store in cloud.
+9. Preview my app by clicking on the URL that appears in the Run panel below (http://myphotoshare.herokuapp.com/).
 
 Happy coding!
-The Cloud9 IDE team
-
+Sourav Bhadani
 
 ## Support & Documentation
 
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+Email me:- souravbhadni94@gmail.com
