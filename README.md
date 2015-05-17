@@ -1,7 +1,7 @@
 
 Welcome to Photo Share 
 
-To get started, just do the following:
+Gems Used in this app:
 
 1. In this website I am using rails 4.1.6 .
 2. Using Bootstarp for front-end Design .
