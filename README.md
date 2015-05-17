@@ -18,4 +18,4 @@ Sourav Bhadani
 
 ## Support & Documentation
 
-Email me:- souravbhadni94@gmail.com
+Email me:- souravbhadani94@gmail.com
