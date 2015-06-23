@@ -1,3 +1,4 @@
+## Support & Documentation
 
 Welcome to Photo Share 
 
@@ -16,6 +17,6 @@ Gems Used in this app:
 Happy coding!
 Sourav Bhadani
 
-## Support & Documentation
+
 
 Email me:- souravbhadani94@gmail.com
